@@ -1,6 +1,6 @@
 # UK Graduate Schemes, Internships, Placements and Apprenticeships
 
-**607 open graduate, internship, placement and apprenticeship roles in the UK at 209 employers.** Checked 15 Oct 2026. 153 posted in the last 7 days. 4 at employers with a visa sponsorship record.
+**635 open graduate, internship, placement and apprenticeship roles in the UK at 225 employers.** Checked 15 Oct 2026. 162 posted in the last 7 days. 4 at employers with a visa sponsorship record.
 
 Early career roles across the UK, every field: graduate schemes and graduate jobs, internships and spring weeks, industrial placements (year in industry), degree and school leaver apprenticeships, and trainee and junior roles. Every title says graduate, intern, placement, apprentice, trainee, junior or similar; senior, lead and manager titles are left out. Split by type, then by field: software and data, engineering, finance and accounting, science and healthcare, and business, consulting and law.
 
@@ -17,6 +17,8 @@ Every role comes straight from the employer's own job board, picked up by [Litos
 | [Finance, banking and accounting](lists/finance-accounting.md) | 96 | 60 |
 | [Science, pharma and healthcare](lists/science-healthcare.md) | 68 | 38 |
 | [Business, consulting and law](lists/business-consulting-law.md) | 137 | 72 |
+| [London](lists/london.md) | 322 | 119 |
+| [Scotland](lists/scotland.md) | 52 | 24 |
 
 Click a role to open it, with the employer's own application link. Spreadsheet versions: [csv/](csv/).
 
@@ -631,6 +633,34 @@ Click a role to open it, with the employer's own application link. Spreadsheet v
 | **LegalVision** | [Trainee Solicitor - Corporate & Commercial Practice Areas](https://trylitos.com/job/856d1e79-3163-4a5a-a1c3-4781e79e1f77?utm_source=github&utm_campaign=uk-early-business-consulting-law) | Manchester, England, United Kingdom |  | Sep 16 |  |
 | **QuantumLoopAI** | [Junior Business Analyst / Project Coordinator](https://trylitos.com/job/ee961997-fe37-42cf-8dba-36105b8c9e93?utm_source=github&utm_campaign=uk-early-business-consulting-law) | London, England, United Kingdom |  | Mar 31 |  |
 | **Advancy Partners** | [London - Junior Consultant (Full-time)](https://trylitos.com/job/002eecb3-eb51-48e1-bcf4-a42ba7655d8b?utm_source=github&utm_campaign=uk-early-business-consulting-law) | London, United Kingdom |  | Feb 22 |  |
+| **State Street** | [Alpha Professional Development Program - Entry level- London July 2027](https://trylitos.com/job/87c29458-8e19-4e33-921a-580c47d25145?utm_source=github&utm_campaign=uk-early-london) | London, England |  | Oct 14 |  |
+| **Kith** | [Junior Waiter](https://trylitos.com/job/6586a8e1-991a-4b8b-af39-1883ddca876e?utm_source=github&utm_campaign=uk-early-london) | London, UK |  | Oct 14 |  |
+| **Kith** | [Junior Bartender](https://trylitos.com/job/05c7660c-9aa1-4081-8e15-084af504f4a0?utm_source=github&utm_campaign=uk-early-london) | London, UK |  | Oct 14 |  |
+| **Linklaters** | [Early Careers Talent Acquisition Coordinator (6m FTC)](https://trylitos.com/job/de20b7ff-2ed2-4d59-a3f8-b826dc57b265?utm_source=github&utm_campaign=uk-early-london) | London |  | Oct 9 |  |
+| **Entrust** | [Junior Product Designer](https://trylitos.com/job/a50571c1-ccf8-4969-8e17-4a86bf1ddb4e?utm_source=github&utm_campaign=uk-early-london) | United Kingdom - London (Onfido) |  | Sep 28 |  |
+| **Capri** | [Junior Account Executive, Online - Mat. Cover](https://trylitos.com/job/724619e4-10a5-418f-b732-d1cd953ee55d?utm_source=github&utm_campaign=uk-early-london) | London |  | Sep 3 |  |
+| **Avon** | [Fashion & Home Junior Buyer](https://trylitos.com/job/98864034-a972-4620-9733-6975be864ebe?utm_source=github&utm_campaign=uk-early-london) | Northampton (Avon Intl, United Kingdom); Lond |  | Aug 28 |  |
+| **Skidmore, Owings & Merrill** | [Year One - Junior Designer - Architecture](https://trylitos.com/job/c6cd7e7f-e5ec-4793-84f5-bf2405820ca7?utm_source=github&utm_campaign=uk-early-london) | London |  | Aug 27 |  |
+| **PJT Partners** | [Associate - Strategic Advisory (Industrials)](https://trylitos.com/job/257af00c-0690-44ba-9620-1c867f123809?utm_source=github&utm_campaign=uk-early-london) | London |  | Aug 20 |  |
+| **TransPerfect** | [Technical/Junior Litigation Support Analyst](https://trylitos.com/job/c44bf216-51eb-49e0-82e9-6030fe1e5162?utm_source=github&utm_campaign=uk-early-london) | UK-London |  | Mar 5 |  |
+| **proSapient** | [Client Services Associate (Entry Level - January 2027)](https://trylitos.com/job/773cf868-68e9-49f4-baf6-b79b443a8d78?utm_source=github&utm_campaign=uk-early-london) | London, England, United Kingdom |  | Oct 14 |  |
+| **proSapient** | [Client Services Associate - French Speaking - (Entry Level - January 2027)](https://trylitos.com/job/91fc0603-b8ae-47f8-bb0c-54117aaa0387?utm_source=github&utm_campaign=uk-early-london) | London, England, United Kingdom |  | Oct 9 |  |
+| **proSapient** | [Client Services Associate - German Speaking - (Entry Level - January 2027)](https://trylitos.com/job/46c3f927-8cfe-49cd-8624-ef865727e511?utm_source=github&utm_campaign=uk-early-london) | London, England, United Kingdom |  | Oct 9 |  |
+| **Moneyfarm** | [Junior Middle Office Analyst](https://trylitos.com/job/4404ea14-b1ed-4380-9e68-cbb42f983a10?utm_source=github&utm_campaign=uk-early-london) | London, England, United Kingdom |  | Oct 8 |  |
+| **proSapient** | [Client Services Associate - Dutch Speaking - (Entry Level - January 2027)](https://trylitos.com/job/6b30d38b-dd40-483b-803d-bd73017ba393?utm_source=github&utm_campaign=uk-early-london) | London, England, United Kingdom |  | Sep 29 |  |
+| **proSapient** | [Talent Acquisition Associate, Early Careers (FTC)](https://trylitos.com/job/5b5ec254-5b9c-4ab2-9be3-4c20a63f54c0?utm_source=github&utm_campaign=uk-early-london) | London, England, United Kingdom |  | Sep 23 |  |
+| **Landor** | [Industrial Designer](https://trylitos.com/job/887866af-5c33-494b-a216-21b455f013c4?utm_source=github&utm_campaign=uk-early-london) | London |  | Sep 18 |  |
+| **Moneyfarm** | [Junior FP&A Analyst](https://trylitos.com/job/ac99068f-12a5-4cc1-91e9-78bb119215ac?utm_source=github&utm_campaign=uk-early-london) | London, England, United Kingdom |  | Sep 15 |  |
+| **Methods Business and Digital Technology** | [Junior Talent Acquisition Specialist](https://trylitos.com/job/e4fab63b-4cd6-42d4-a84e-6765763c9766?utm_source=github&utm_campaign=uk-early-london) | London, England, United Kingdom |  | Sep 15 |  |
+| **proSapient** | [Client Services Associate (Entry Level - 2027 Start)](https://trylitos.com/job/4c7f0cfc-d42b-4e3f-a806-2de3fafe48da?utm_source=github&utm_campaign=uk-early-london) | London, England, United Kingdom |  | Sep 11 |  |
+| **proSapient** | [Client Services Associate - Nordic Speaking - (Entry Level - January 2027)](https://trylitos.com/job/093237e0-9238-4be3-9ff5-8fedc01d5da1?utm_source=github&utm_campaign=uk-early-london) | London, England, United Kingdom |  | Sep 11 |  |
+| **PetLabCo.** | [Junior Video Producer - Paid Media (Spanish Speaking)- Remote in UK or Hybrid](https://trylitos.com/job/af6cbfa1-1e39-4c08-a33a-526960a49aee?utm_source=github&utm_campaign=uk-early-london) | London, England, United Kingdom |  | Aug 28 |  |
+| **PetLabCo.** | [Junior Video Producer - Paid Media (Spanish Speaking)- Remote in USA](https://trylitos.com/job/192419d0-1243-4018-b1a7-6f9a90bfcc5d?utm_source=github&utm_campaign=uk-early-london) | London, England, United Kingdom |  | Aug 28 |  |
+| **Vovi** | [Designer - Entry Level (London)](https://trylitos.com/job/f3f65139-8cd6-4e46-934c-031d215b6341?utm_source=github&utm_campaign=uk-early-london) | London, England, United Kingdom |  | Jun 3 |  |
+| **Iberdrola** | [Trainee Field Technician](https://trylitos.com/job/6406df2f-6193-4af0-a47e-4589fd9383fd?utm_source=github&utm_campaign=uk-early-scotland) | United Kingdom, Cambuslang; United Kingdom, C |  | Oct 5 |  |
+| **Clyde & Co** | [Junior Associate - CILL Scotland](https://trylitos.com/job/b191bcbb-b5c3-4176-b406-cb44e6fe5e03?utm_source=github&utm_campaign=uk-early-scotland) | Edinburgh |  | Sep 21 |  |
+| **Kepak Group** | [Cleaning Operative (Industrial cleaning)](https://trylitos.com/job/58e9fe1b-3e91-4004-80b1-3e0a7e19af1f?utm_source=github&utm_campaign=uk-early-scotland) | Aberdeen, Scotland, United Kingdom |  | Oct 14 |  |
+| **EnerMech** | [Trainee Lifting Equipment Technician](https://trylitos.com/job/b13df4fc-0022-44cc-a01b-41d001d17566?utm_source=github&utm_campaign=uk-early-scotland) | Aberdeen, Scotland, United Kingdom |  | Jul 24 |  |
 
 Visa signal: the posting says it sponsors, or the employer has US H-1B (USCIS) or LCA (DOL) records. A record means the employer has sponsored before, not that a given role will, so always confirm with the employer.
 
