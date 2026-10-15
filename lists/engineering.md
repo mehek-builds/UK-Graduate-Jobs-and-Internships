@@ -1,6 +1,6 @@
-# 112 engineering roles
+# 104 engineering roles
 
-**112 roles at 57 companies.** Checked 15 Oct 2026. Mechanical, electrical, civil, chemical, aerospace, manufacturing and electronics engineering.
+**104 roles at 51 companies.** Checked 15 Oct 2026. Mechanical, electrical, civil, chemical, aerospace, manufacturing and electronics engineering.
 
 _Pulled from companies' own job boards and rebuilt every Monday._
 
@@ -13,20 +13,16 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **Johnson Matthey** | [Electrical Controls Graduate Engineer](https://trylitos.com/job/1f4e2e19-7d8b-4505-ae01-127b01f011d5?utm_source=github&utm_campaign=uk-early-engineering) | Royston - UK |  | Oct 13 |  |
 | **Thomson Reuters** | [Junior Dev Ops Engineer (Graduate) - Reuters Imagen](https://trylitos.com/job/c70a5469-6215-4bd4-ab07-746eb3a0f2c4?utm_source=github&utm_campaign=uk-early-engineering) | United Kingdom, Willingham, Cambridgeshire |  | Oct 13 |  |
 | **MBDA** | [Weapon System Equipment Engineer - Undergraduate Placement 2027](https://trylitos.com/job/04515772-ec40-4ef5-9139-60ac75413b86?utm_source=github&utm_campaign=uk-early-engineering) | Bristol |  | Oct 13 |  |
-| **MUFG** | [2027 MUFG UK Summer Analyst Programme: Global Markets - Markets Engineering](https://trylitos.com/job/f66aeda6-ba90-4cca-9ea9-a1266bb164f5?utm_source=github&utm_campaign=uk-early-engineering) | London |  | Oct 13 |  |
 | **MBDA** | [General Engineering Higher Apprenticeship 2027](https://trylitos.com/job/61792042-ffc3-45cc-9432-8bfcfefc9414?utm_source=github&utm_campaign=uk-early-engineering) | Stevenage |  | Oct 12 |  |
-| **Analog Devices** | [FY27 Graduate Field Sales Engineer Automotive Sales](https://trylitos.com/job/d547db77-8592-4608-b4db-ee2792ce0aca?utm_source=github&utm_campaign=uk-early-engineering) | United Kingdom, Hayes |  | Oct 11 |  |
 | **Crane Company** | [Engineering Intern](https://trylitos.com/job/f7984553-2dd9-4fdd-a2b6-3699b5fabfb0?utm_source=github&utm_campaign=uk-early-engineering) | Leicester, UK |  | Oct 9 |  |
 | **Ingram Micro** | [Trainee Field Network Engineer](https://trylitos.com/job/98e5fe5b-c407-4c26-ae2e-8ddc72a25507?utm_source=github&utm_campaign=uk-early-engineering) | Northwich, Cheshire, United Kingdom |  | Oct 9 |  |
 | **Hitachi** | [Engineering Maintenance Technician Apprentice](https://trylitos.com/job/f561dc06-ea14-426e-9ab3-ab925e6ebd07?utm_source=github&utm_campaign=uk-early-engineering) | Bounds Green London, United Kingdom; Bristol, |  | Oct 9 |  |
 | **MBDA** | [Guidance, Control and Navigation Engineer - Undergraduate Placement 2027](https://trylitos.com/job/34d19b8b-9f4d-417c-bde3-29a54f9e7cde?utm_source=github&utm_campaign=uk-early-engineering) | Bristol |  | Oct 9 |  |
 | **Thales** | [Industrial Process Engineer](https://trylitos.com/job/089fa82f-937c-4cad-a6a6-32312d898b55?utm_source=github&utm_campaign=uk-early-engineering) | Glasgow |  | Oct 8 |  |
-| **BBVA** | [Business Administration Intern - Engineering](https://trylitos.com/job/48a2470e-e987-42ab-8316-5683e35c0c96?utm_source=github&utm_campaign=uk-early-engineering) | BBVA, One Canada Square (44th Floor), Canary |  | Oct 8 |  |
 | **Sulzer** | [Product Engineer - 12 Month Undergraduate Placement](https://trylitos.com/job/ed29fe9a-92b4-4dd8-b0b9-469ef876793f?utm_source=github&utm_campaign=uk-early-engineering) | Leeds |  | Oct 8 |  |
 | **Sensata** | [Manufacturing Engineering Placement Student](https://trylitos.com/job/e3cd712d-4873-4d84-bdbd-2e43cfa6dac0?utm_source=github&utm_campaign=uk-early-engineering) | Newtownabbey, United Kingdom; Antrim, United |  | Oct 8 |  |
 | **Sensata** | [Mechanical Design Engineering Placement Student](https://trylitos.com/job/9ecbf766-d2bf-4b1e-8f15-71fe700b7815?utm_source=github&utm_campaign=uk-early-engineering) | Newtownabbey, United Kingdom |  | Oct 8 |  |
 | **Sensata** | [Hardware Engineering Placement Student](https://trylitos.com/job/648033fe-d08f-4a52-a519-92019f568d2a?utm_source=github&utm_campaign=uk-early-engineering) | Newtownabbey, United Kingdom |  | Oct 8 |  |
-| **Curtiss-Wright** | [Junior Sales Engineer](https://trylitos.com/job/389208fc-1a83-42ca-9d19-611cd3ec3ab7?utm_source=github&utm_campaign=uk-early-engineering) | UK-Corby (Farris) |  | Oct 8 |  |
 | **MBDA** | [Weapon System Equipment Engineer - Graduate Programme 2027](https://trylitos.com/job/b4b20309-228a-413f-b02d-6f62d85b3b72?utm_source=github&utm_campaign=uk-early-engineering) | Bristol; Stevenage |  | Oct 7 |  |
 | **Rolls-Royce** | [Engineering and Technology Summer Internship - UK](https://trylitos.com/job/082639f8-58c5-4c4e-b404-27e91473a26f?utm_source=github&utm_campaign=uk-early-engineering) | Derby; Rotherham; Washington; Solihull; Glasg |  | Oct 7 |  |
 | **P&G** | [Electrical Engineering Internship 2027](https://trylitos.com/job/deb241fd-446f-4d75-abfb-c17bcf88681d?utm_source=github&utm_campaign=uk-early-engineering) | READING TECH CENTER |  | Oct 6 |  |
@@ -72,7 +68,6 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **MBDA** | [Manufacturing Test Engineer - Graduate Programme 2027](https://trylitos.com/job/a663527f-e4d2-459e-be2f-082068d7495a?utm_source=github&utm_campaign=uk-early-engineering) | Stevenage; Bolton |  | Sep 22 |  |
 | **MBDA** | [Calibration and Maintenance Engineer - Graduate Programme 2027](https://trylitos.com/job/8d881b5f-f8fd-4291-8b87-a1190eaf7d90?utm_source=github&utm_campaign=uk-early-engineering) | Stevenage; Bolton |  | Sep 22 |  |
 | **MBDA** | [Systems Design Engineer - Graduate Programme 2027](https://trylitos.com/job/e4b5842e-1edc-4ce0-bad9-b8e097f46510?utm_source=github&utm_campaign=uk-early-engineering) | Bristol; Stevenage |  | Sep 22 |  |
-| **Aggreko** | [Graduate Manufacturing Technical Writer](https://trylitos.com/job/dd3b99f6-f7aa-4800-941b-c3abf36b3382?utm_source=github&utm_campaign=uk-early-engineering) | Dumbarton, UK |  | Sep 21 |  |
 | **LSEG** | [Engineering Summer Internship Programme](https://trylitos.com/job/d9340193-0b3f-40e2-9f94-b5391fb0abaf?utm_source=github&utm_campaign=uk-early-engineering) | London, United Kingdom |  | Sep 17 |  |
 | **Hexcel** | [Corporate Research Lab (CRL) Scientist / Engineer - Early Career Program](https://trylitos.com/job/49b012cc-4d60-46a0-bd42-908826959e02?utm_source=github&utm_campaign=uk-early-engineering) | UK - Duxford |  | Sep 14 |  |
 | **Ferrovial** | [Graduate Design Engineer](https://trylitos.com/job/d2327b8f-78bf-485b-8bc7-e2ec04c0607c?utm_source=github&utm_campaign=uk-early-engineering) | London |  | Aug 28 |  |
@@ -80,7 +75,6 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **Teledyne FLIR** | [Graduate Manufacturing Technician](https://trylitos.com/job/58f4cce5-33fc-4124-be47-33b788219cb0?utm_source=github&utm_campaign=uk-early-engineering) | UK - Lincoln |  | Jul 31 |  |
 | **Jensen Hughes** | [Graduate Fire Engineer 2027 Start - Glasgow](https://trylitos.com/job/032784d3-8a49-4f6a-b2ab-233a0439a9e9?utm_source=github&utm_campaign=uk-early-engineering) | Glasgow, Scotland, United Kingdom |  | Oct 13 |  |
 | **Signifyd** | [Engineering Intern](https://trylitos.com/job/db24b6f7-01f1-4648-a914-e7b529777888?utm_source=github&utm_campaign=uk-early-engineering) | Belfast, Northern Ireland; |  | Oct 13 |  |
-| **The Event Academy** | [Intern - Automotive/ Experiential Events](https://trylitos.com/job/b0321fa2-08c3-4af5-a1ce-bd4599949751?utm_source=github&utm_campaign=uk-early-engineering) | Bedfordshire, United Kingdom |  | Oct 12 |  |
 | **HelloFresh** | [Junior Maintenance Engineer](https://trylitos.com/job/5a5b54e2-150b-4177-9c10-1eeed0c5851d?utm_source=github&utm_campaign=uk-early-engineering) | Derby, England, United Kingdom |  | Oct 10 |  |
 | **Intertek** | [Owner's Engineering Services (Civil & Industrial Construction) External Advisor](https://trylitos.com/job/c9e32153-d285-4f76-9a7e-7603290f40ed?utm_source=github&utm_campaign=uk-early-engineering) | United Kingdom / Germany / France / Italy / R |  | Oct 9 |  |
 | **Jensen Hughes** | [Graduate Fire Engineer 2027 Start - Manchester](https://trylitos.com/job/9a277971-057c-4c67-b7fb-9060f494af80?utm_source=github&utm_campaign=uk-early-engineering) | Manchester, England, United Kingdom |  | Oct 8 |  |
@@ -102,13 +96,11 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **HR Wallingford** | [Graduate Engineer/Scientist (Maritime & Ships)](https://trylitos.com/job/78f3df44-5a99-4a97-a93f-853b7cdf35aa?utm_source=github&utm_campaign=uk-early-engineering) | Wallingford, UK |  | Sep 29 |  |
 | **The Focusrite Group** | [QA Engineering Placement - TiMax](https://trylitos.com/job/94267ed5-d2da-4f5c-8846-c705efd0db13?utm_source=github&utm_campaign=uk-early-engineering) | London, England, United Kingdom |  | Sep 28 |  |
 | **The Focusrite Group** | [Hardware (Electronics and Firmware) Placement](https://trylitos.com/job/9823c4b3-6401-437a-8218-812114decb94?utm_source=github&utm_campaign=uk-early-engineering) | High Wycombe, Buckinghamshire, United Kingdom |  | Sep 28 |  |
-| **The Focusrite Group** | [Technical Support Engineer Placement](https://trylitos.com/job/888e3e45-552f-44f7-83ec-197fac05bf6f?utm_source=github&utm_campaign=uk-early-engineering) | High Wycombe, Buckinghamshire, United Kingdom |  | Sep 28 |  |
 | **The Focusrite Group** | [Mechanical Design Placement - Martin Audio](https://trylitos.com/job/67704539-879c-42fb-b064-b060ddd3656c?utm_source=github&utm_campaign=uk-early-engineering) | High Wycombe, Buckinghamshire, United Kingdom |  | Sep 28 |  |
 | **Symphony Communication Services** | [Placement, Site Reliability Engineering SRE](https://trylitos.com/job/f7bfcddb-08fb-456c-a84a-70fafc891451?utm_source=github&utm_campaign=uk-early-engineering) | Belfast, Northern Ireland |  | Sep 22 |  |
 | **NewRocket** | [AI Engineer-Anthropic-University/Graduate Level - UK](https://trylitos.com/job/9776e330-f379-4b2d-9d6d-48c7b2ab9f19?utm_source=github&utm_campaign=uk-early-engineering) | UK - Remote |  | Sep 17 |  |
 | **Winthrop Technologies** | [Winthrop Technologies: Engineering Graduate Programme 2027](https://trylitos.com/job/815a0183-2def-497a-b9ea-67529a595567?utm_source=github&utm_campaign=uk-early-engineering) | Dublin, County Dublin, Ireland / Helsinki, Uu |  | Sep 17 |  |
 | **Bridges Electrical Engineers** | [Mechanical Apprentice](https://trylitos.com/job/fb7ec83a-d34c-4e33-91f9-820442b539b7?utm_source=github&utm_campaign=uk-early-engineering) | Maidstone, England, United Kingdom |  | Sep 16 |  |
-| **SalesCaptain** | [Junior GTM Engineer](https://trylitos.com/job/742c8549-1729-4d0b-ac4c-14b29ecc429b?utm_source=github&utm_campaign=uk-early-engineering) | United Kingdom |  | Aug 24 |  |
 | **Bridges Electrical Engineers** | [Junior System Integration Engineer](https://trylitos.com/job/fce468b4-a226-4195-834f-95359e786567?utm_source=github&utm_campaign=uk-early-engineering) | Poole, England, United Kingdom |  | Aug 21 |  |
 | **Jump Trading** | [Campus Systems Engineer (Intern)](https://trylitos.com/job/6ff6c83d-8d82-4076-a32c-1315a9f68058?utm_source=github&utm_campaign=uk-early-engineering) | London; Amsterdam |  | Aug 18 |  |
 | **Jump Trading** | [Campus ML Research Engineer (Intern)](https://trylitos.com/job/f957be49-c9e7-44a2-b488-3686ac6c8738?utm_source=github&utm_campaign=uk-early-engineering) | London |  | Aug 18 |  |

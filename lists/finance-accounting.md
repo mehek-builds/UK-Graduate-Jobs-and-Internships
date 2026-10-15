@@ -1,6 +1,6 @@
-# 96 finance, banking and accounting roles
+# 91 finance, banking and accounting roles
 
-**96 roles at 60 companies.** Checked 15 Oct 2026. Banking, markets, investment, audit, tax, accounting (ACA, ACCA, CIMA), actuarial, risk and insurance.
+**91 roles at 55 companies.** Checked 15 Oct 2026. Banking, markets, investment, audit, tax, accounting (ACA, ACCA, CIMA), actuarial, risk and insurance.
 
 _Pulled from companies' own job boards and rebuilt every Monday._
 
@@ -11,7 +11,6 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **Bupa** | [Finance & Governance Placement Student](https://trylitos.com/job/afb518f8-9ff5-45f3-ab6d-72d585900e31?utm_source=github&utm_campaign=uk-early-finance-accounting) | Salford Quays; Angel Court, London |  | Oct 13 |  |
 | **Bupa** | [Actuarial Placement Student](https://trylitos.com/job/626962f6-97a4-4359-8e18-ced343046c42?utm_source=github&utm_campaign=uk-early-finance-accounting) | Salford Quays; Angel Court, London |  | Oct 13 |  |
 | **MUFG** | [2027 MUFG UK Summer Analyst Programme: Global Markets - Markets Engineering](https://trylitos.com/job/f66aeda6-ba90-4cca-9ea9-a1266bb164f5?utm_source=github&utm_campaign=uk-early-finance-accounting) | London |  | Oct 13 |  |
-| **JLL** | [Quantity Surveying Apprentice - Manchester (September 2027 Start)](https://trylitos.com/job/083a0281-3cf5-40ef-81b3-bfd81f9415c1?utm_source=github&utm_campaign=uk-early-finance-accounting) | Greater Manchester, GBR |  | Oct 12 |  |
 | **Howden** | [Reinsurance Broker Support Apprenticeship Programme 2027 - London](https://trylitos.com/job/3c769252-5e48-4ef8-bc58-7aa9e4d45ee3?utm_source=github&utm_campaign=uk-early-finance-accounting) | London - One Creechurch Place |  | Oct 12 |  |
 | **Arriva** | [Finance Graduate](https://trylitos.com/job/5dec7ffa-2b95-49d9-aafb-9e9cf15236d1?utm_source=github&utm_campaign=uk-early-finance-accounting) | Doxford; Lacon House |  | Oct 9 |  |
 | **MBDA** | [Finance - Undergraduate Programme 2027](https://trylitos.com/job/6533a474-0cc3-4b89-9149-da1ad9917405?utm_source=github&utm_campaign=uk-early-finance-accounting) | Stevenage |  | Oct 9 |  |
@@ -41,7 +40,6 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **Barclays** | [2027 Retail, Business and Customer Banking Summer Internship Programme Manchester](https://trylitos.com/job/5524d84a-eff6-4cee-8fdd-9da17d63f2db?utm_source=github&utm_campaign=uk-early-finance-accounting) | Manchester, 4 Piccadilly Place |  | Sep 25 |  |
 | **Barclays** | [2027 Risk Analyst Summer Internship Programme Glasgow](https://trylitos.com/job/c79065ef-11e5-4af7-8462-fe161396879b?utm_source=github&utm_campaign=uk-early-finance-accounting) | Glasgow Campus |  | Sep 25 |  |
 | **Barclays** | [2027 Business Banking Apprenticeship Programme Manchester](https://trylitos.com/job/c6b95f0d-862a-49d2-a654-0244c0ba6893?utm_source=github&utm_campaign=uk-early-finance-accounting) | Manchester, 4 Piccadilly Place |  | Sep 25 |  |
-| **United Living** | [Graduate Quantity Surveyor - Immediate Start](https://trylitos.com/job/1c6ad77c-0fd4-472a-8c84-2d2a41616863?utm_source=github&utm_campaign=uk-early-finance-accounting) | Power_T&D_Glasgow |  | Sep 24 |  |
 | **Deutsche Bank** | [Industrials/ Business Services - Investment Banking Coverage & Advisory](https://trylitos.com/job/ac01726b-0102-4544-9bfd-d1ccb8338c3f?utm_source=github&utm_campaign=uk-early-finance-accounting) | London, 21 Moorfields |  | Sep 21 |  |
 | **Bishop Fleming** | [School Leaver Trainee Accountant - ACA & ACA/CTA - September 2027 Start](https://trylitos.com/job/0b5b6117-eb4e-4b30-a67e-ca52c2579ddb?utm_source=github&utm_campaign=uk-early-finance-accounting) | Bristol; Birmingham; Cheltenham; Exeter; Worc |  | Sep 18 |  |
 | **Deutsche Bank** | [Industrials / Business Services - Investment Banking Coverage & Advisory](https://trylitos.com/job/8b79bed0-82a0-4a33-9e47-27c02b2b1f71?utm_source=github&utm_campaign=uk-early-finance-accounting) | London, 21 Moorfields |  | Sep 16 |  |
@@ -64,7 +62,6 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **Blackstone** | [2027 Blackstone Credit and Insurance, Infrastructure and Asset Based Credit Summer Analyst (London)](https://trylitos.com/job/5d8d580c-5c70-474f-9b90-ed662e835e7d?utm_source=github&utm_campaign=uk-early-finance-accounting) | London |  | Aug 10 |  |
 | **G-Research** | [Quant Research Internship](https://trylitos.com/job/765451a6-6b43-4b03-9a78-6c2aac86dead?utm_source=github&utm_campaign=uk-early-finance-accounting) | London, UK |  | Jul 31 |  |
 | **Blackstone** | [2027 Blackstone Strategic Partners Private Equity Secondaries Summer Analyst (London)](https://trylitos.com/job/4fe33ba5-3be0-48d1-b0db-c52c7b78f8b5?utm_source=github&utm_campaign=uk-early-finance-accounting) | London |  | Jul 29 |  |
-| **Clyde & Co** | [Junior Associate - Marine, Trading & Commodities](https://trylitos.com/job/5d4075c5-a8bc-4942-8c6f-610884d804b7?utm_source=github&utm_campaign=uk-early-finance-accounting) | Bristol |  | Jul 23 |  |
 | **G-Research** | [Quantitative Researcher - Postgraduate](https://trylitos.com/job/bc5874bf-b287-466a-b8a5-72840fe45eb6?utm_source=github&utm_campaign=uk-early-finance-accounting) | London, UK |  | Jul 23 |  |
 | **Blackstone** | [2027 Blackstone Real Estate Partners Summer Analyst - Acquisitions, Asset Management, Capital Markets and Core+ (London)](https://trylitos.com/job/546edf2a-d467-4f83-8690-30b0aa1b9aff?utm_source=github&utm_campaign=uk-early-finance-accounting) | London |  | Jul 13 |  |
 | **Blackstone** | [2027 Blackstone Real Estate Debt Strategies Summer Analyst - Private Investments & Capital Markets (London)](https://trylitos.com/job/4bb2cb7e-300d-48d1-9a88-b5d1dda1879e?utm_source=github&utm_campaign=uk-early-finance-accounting) | London |  | Jul 13 |  |
@@ -72,7 +69,6 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **Blackstone** | [2027 Blackstone Private Wealth Summer Analyst (London)](https://trylitos.com/job/2682d079-b6c2-437e-9ae8-678b28b3ca31?utm_source=github&utm_campaign=uk-early-finance-accounting) | Berkeley Square House London |  | Jul 13 |  |
 | **Crane Company** | [Finance Intern](https://trylitos.com/job/13c0b5cf-2ccd-4dcf-b0e9-33fa82993a0e?utm_source=github&utm_campaign=uk-early-finance-accounting) | Leicester, UK |  | Jun 3 |  |
 | **Winton** | [Quantitative Developer, Graduate](https://trylitos.com/job/1f86816c-783f-42ad-8234-80577b43b7c0?utm_source=github&utm_campaign=uk-early-finance-accounting) | London, United Kingdom |  | Oct 14 |  |
-| **Delta Capita** | [Junior Sales Executive (Financial Services)](https://trylitos.com/job/53f724c6-4347-454e-85af-50d58b68565a?utm_source=github&utm_campaign=uk-early-finance-accounting) | London, United Kingdom |  | Oct 14 |  |
 | **StepStone Group** | [2027 Private Equity Summer Analyst](https://trylitos.com/job/9a8a0796-cc35-4c9f-8ecd-c4b27cd78ef5?utm_source=github&utm_campaign=uk-early-finance-accounting) | London |  | Oct 14 |  |
 | **AG Barr** | [Finance Graduate](https://trylitos.com/job/9ef0879b-0826-440e-8e8c-12a675ae22b4?utm_source=github&utm_campaign=uk-early-finance-accounting) | Cumbernauld, Scotland, United Kingdom |  | Oct 13 |  |
 | **Interpath Advisory** | [Graduate Associate, National Markets](https://trylitos.com/job/e218b6b5-35b3-49c3-b1b2-321fe7f82c7b?utm_source=github&utm_campaign=uk-early-finance-accounting) | Belfast, Northern Ireland, United Kingdom; Gl |  | Oct 13 |  |
@@ -80,7 +76,6 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **Mako** | [Mako Summer Internship - Trading](https://trylitos.com/job/93cafe8c-7a27-4dd0-9a4f-b2afa156e4cf?utm_source=github&utm_campaign=uk-early-finance-accounting) | London |  | Oct 12 |  |
 | **StepStone Group** | [2027 Private Equity Infrastructure & Real Assets Intern](https://trylitos.com/job/7c5be262-0504-42b5-b13b-b26184e9bd17?utm_source=github&utm_campaign=uk-early-finance-accounting) | London |  | Oct 12 |  |
 | **Interpath Advisory** | [Graduate Associate, Tax](https://trylitos.com/job/a209640d-383c-47f0-9260-71a47f8049b5?utm_source=github&utm_campaign=uk-early-finance-accounting) | London, England, United Kingdom |  | Oct 9 |  |
-| **Winthrop Technologies** | [Graduate Quantity Surveyor](https://trylitos.com/job/7a15e708-5cb4-4b9a-a5e1-043feb263dd4?utm_source=github&utm_campaign=uk-early-finance-accounting) | Blyth, England, United Kingdom |  | Oct 9 |  |
 | **Hudson River Trading** | [Algorithm Development (Quant Research & Trading) Internship - Summer 2027](https://trylitos.com/job/c4fd556f-6084-48be-9132-a797500e996a?utm_source=github&utm_campaign=uk-early-finance-accounting) | London, United Kingdom; New York, NY, United |  | Oct 7 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Hudson River Trading** | [Algorithm Development (Quant Research & Trading) PhD Internship - Summer 2027](https://trylitos.com/job/410abe59-df1f-48bc-9316-3b5a6e55dd77?utm_source=github&utm_campaign=uk-early-finance-accounting) | London, United Kingdom; New York, NY, United |  | Oct 7 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Old Mill** | [Graduate trainee accountant 2027](https://trylitos.com/job/dc92a74f-980a-401b-873b-7fc1e78facdd?utm_source=github&utm_campaign=uk-early-finance-accounting) | Chippenham, England, United Kingdom; Exeter, |  | Oct 6 |  |
@@ -91,7 +86,6 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **Schonfeld** | [2027 DMFI Quant Developer Intern](https://trylitos.com/job/184f618c-3558-4f3d-996e-58d3396d16e4?utm_source=github&utm_campaign=uk-early-finance-accounting) | London, England, United Kingdom |  | Sep 30 |  |
 | **Schonfeld** | [2027 DMFI Quant Research Intern](https://trylitos.com/job/e45f8e92-219b-4fd6-aa9d-9dd6f41b3efe?utm_source=github&utm_campaign=uk-early-finance-accounting) | London, England, United Kingdom |  | Sep 30 |  |
 | **Bridewell** | [Junior Accountant](https://trylitos.com/job/7165e940-7d8a-4c3e-b44b-7aff2a9887e6?utm_source=github&utm_campaign=uk-early-finance-accounting) | Reading, England, United Kingdom |  | Sep 30 |  |
-| **Nu Quantum Ltd** | [FPGA Engineer - Quantum Networking (Early Career)](https://trylitos.com/job/b0941b01-806e-4e64-9a10-9a796a9131c0?utm_source=github&utm_campaign=uk-early-finance-accounting) | Cambridge, England, United Kingdom |  | Sep 30 | Posting says it sponsors |
 | **IK Partners** | [Capital Markets Off-Cycle Analyst 2027](https://trylitos.com/job/21254630-323e-45cd-8686-fd92dac883bb?utm_source=github&utm_campaign=uk-early-finance-accounting) | London, United Kingdom |  | Sep 24 |  |
 | **Javelin Global Commodities** | [Summer Intern: Commodities Trading](https://trylitos.com/job/da6e8087-0b7f-4340-ad9e-b1677755fdb4?utm_source=github&utm_campaign=uk-early-finance-accounting) | London, England, United Kingdom |  | Sep 16 |  |
 | **Point72** | [Quantitative Researcher - Intern](https://trylitos.com/job/7399c1ec-e347-43a5-81b8-c8611b3afb5a?utm_source=github&utm_campaign=uk-early-finance-accounting) | London, Paris, Hong Kong, Tokyo |  | Sep 15 |  |
@@ -101,6 +95,7 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **DRW** | [Quantitative Research Intern](https://trylitos.com/job/3e466406-b790-43db-9395-b76f9d7e6ba6?utm_source=github&utm_campaign=uk-early-finance-accounting) | London |  | Aug 19 |  |
 | **Jump Trading** | [Campus Quantitative Researcher (Intern)](https://trylitos.com/job/08572688-26fc-4516-9693-3e2dd6274472?utm_source=github&utm_campaign=uk-early-finance-accounting) | London; Amsterdam |  | Aug 8 |  |
 | **Jump Trading** | [Campus Quantitative Trader (Intern)](https://trylitos.com/job/2857ac24-e23d-4890-9c95-e0e72ccdc7ae?utm_source=github&utm_campaign=uk-early-finance-accounting) | London; Amsterdam |  | Jul 25 |  |
+| **Onyx Capital Group Limited** | [Graduate Trader](https://trylitos.com/job/ddc1108f-ee2d-452a-b3ab-b9d230d29f4e?utm_source=github&utm_campaign=uk-early-finance-accounting) | London, England, United Kingdom |  | Dec 16 |  |
 | **Nova Wealth** | [Graduate/Entry Level Operations Specialist (Financial Advice)](https://trylitos.com/job/dd4ebdc4-7c51-40e9-acb3-4c917625971a?utm_source=github&utm_campaign=uk-early-finance-accounting) | London, England, United Kingdom |  | Dec 5 |  |
 
 [Download as CSV](../csv/) · [All lists](../README.md)

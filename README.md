@@ -1,6 +1,6 @@
 # UK Graduate Schemes, Internships, Placements and Apprenticeships
 
-**635 open graduate, internship, placement and apprenticeship roles in the UK at 225 employers.** Checked 15 Oct 2026. 162 posted in the last 7 days. 4 at employers with a visa sponsorship record.
+**631 open graduate, internship, placement and apprenticeship roles in the UK at 222 employers.** Checked 15 Oct 2026. 161 posted in the last 7 days. 4 at employers with a visa sponsorship record.
 
 Early career roles across the UK, every field: graduate schemes and graduate jobs, internships and spring weeks, industrial placements (year in industry), degree and school leaver apprenticeships, and trainee and junior roles. Every title says graduate, intern, placement, apprentice, trainee, junior or similar; senior, lead and manager titles are left out. Split by type, then by field: software and data, engineering, finance and accounting, science and healthcare, and business, consulting and law.
 
@@ -12,10 +12,10 @@ Every role comes straight from the employer's own job board, picked up by [Litos
 | [Internships, spring weeks and insight programmes](lists/internships.md) | 196 | 71 |
 | [Industrial placements (year in industry)](lists/placements.md) | 109 | 28 |
 | [Degree and school leaver apprenticeships](lists/apprenticeships.md) | 50 | 30 |
-| [Software, data and tech](lists/software-data.md) | 181 | 83 |
-| [Engineering](lists/engineering.md) | 112 | 57 |
-| [Finance, banking and accounting](lists/finance-accounting.md) | 96 | 60 |
-| [Science, pharma and healthcare](lists/science-healthcare.md) | 68 | 38 |
+| [Software, data and tech](lists/software-data.md) | 93 | 60 |
+| [Engineering](lists/engineering.md) | 104 | 51 |
+| [Finance, banking and accounting](lists/finance-accounting.md) | 91 | 55 |
+| [Science, pharma and healthcare](lists/science-healthcare.md) | 33 | 19 |
 | [Business, consulting and law](lists/business-consulting-law.md) | 137 | 72 |
 | [London](lists/london.md) | 322 | 119 |
 | [Scotland](lists/scotland.md) | 52 | 24 |
@@ -588,21 +588,18 @@ Click a role to open it, with the employer's own application link. Spreadsheet v
 | **Barfoots of Botley** | [Junior IT Desktop Support](https://trylitos.com/job/ae8678a5-da9b-4f25-97eb-d8cf883ca49d?utm_source=github&utm_campaign=uk-early-software-data) | Chichester, West Sussex, United Kingdom |  | Oct 12 |  |
 | **Fanatics Commerce** | [Junior Product Developer](https://trylitos.com/job/17f4ab6b-3a5e-4b1b-8807-8e5a3ead5445?utm_source=github&utm_campaign=uk-early-software-data) | Manchester, England, United Kingdom |  | Oct 8 |  |
 | **Vix Technology & Kuba** | [Junior Cyber Security Analyst](https://trylitos.com/job/e5f87f22-9c19-4504-835c-4b293bbaf993?utm_source=github&utm_campaign=uk-early-software-data) | Manchester, England, United Kingdom |  | Oct 7 |  |
+| **Camlin** | [Junior Firmware Engineer (Lisburn)](https://trylitos.com/job/e72de994-88ac-4f74-a8ef-34c2d86e74b2?utm_source=github&utm_campaign=uk-early-software-data) | Lisburn, United Kingdom |  | Oct 1 |  |
 | **Fasanara** | [Junior Java Software Developer](https://trylitos.com/job/489fe141-1b96-4c23-a9aa-d17cfc0c3747?utm_source=github&utm_campaign=uk-early-software-data) | London, England, United Kingdom |  | Sep 29 |  |
 | **BCN Group** | [Junior AI Specialist](https://trylitos.com/job/456e9b77-bcae-4ad9-b0d6-138f74e41c41?utm_source=github&utm_campaign=uk-early-software-data) | Reading, United Kingdom |  | Sep 18 |  |
 | **Blenheim Chalcot** | [Junior Software Engineer](https://trylitos.com/job/14e95ea0-3d34-4bd3-b726-05d22d6723c0?utm_source=github&utm_campaign=uk-early-software-data) | London |  | Sep 16 |  |
-| **MaxAccelerate** | [Trainee Sales Development Representative - DataMax AI (Remote / Global)](https://trylitos.com/job/df453be6-79f6-4091-a8e9-ca00007e7175?utm_source=github&utm_campaign=uk-early-software-data) | South Africa / Ireland / Dubai, Dubai, United |  | Nov 26 |  |
 | **Fogsphere** | [Junior Software Engineer (with SRE Influences)](https://trylitos.com/job/f0a0f846-76c7-4f61-a074-71148bcfaf4e?utm_source=github&utm_campaign=uk-early-software-data) | London, United Kingdom |  | Nov 7 |  |
 | **Ingram Micro** | [Trainee Field Network Engineer](https://trylitos.com/job/98e5fe5b-c407-4c26-ae2e-8ddc72a25507?utm_source=github&utm_campaign=uk-early-engineering) | Northwich, Cheshire, United Kingdom |  | Oct 9 |  |
 | **Thales** | [Industrial Process Engineer](https://trylitos.com/job/089fa82f-937c-4cad-a6a6-32312d898b55?utm_source=github&utm_campaign=uk-early-engineering) | Glasgow |  | Oct 8 |  |
-| **Curtiss-Wright** | [Junior Sales Engineer](https://trylitos.com/job/389208fc-1a83-42ca-9d19-611cd3ec3ab7?utm_source=github&utm_campaign=uk-early-engineering) | UK-Corby (Farris) |  | Oct 8 |  |
 | **HelloFresh** | [Junior Maintenance Engineer](https://trylitos.com/job/5a5b54e2-150b-4177-9c10-1eeed0c5851d?utm_source=github&utm_campaign=uk-early-engineering) | Derby, England, United Kingdom |  | Oct 10 |  |
 | **Intertek** | [Owner's Engineering Services (Civil & Industrial Construction) External Advisor](https://trylitos.com/job/c9e32153-d285-4f76-9a7e-7603290f40ed?utm_source=github&utm_campaign=uk-early-engineering) | United Kingdom / Germany / France / Italy / R |  | Oct 9 |  |
 | **Camlin** | [Junior Project Engineer](https://trylitos.com/job/0dfb752b-cf3a-426e-a57c-d898a5f53f98?utm_source=github&utm_campaign=uk-early-engineering) | Lisburn, United Kingdom |  | Oct 8 |  |
 | **elasticStage** | [Junior Manufacturing Operator (Weekends)](https://trylitos.com/job/b3e6aaa3-b9ca-4bd9-a5fd-b4c09f559fb5?utm_source=github&utm_campaign=uk-early-engineering) | Elstree, England, United Kingdom |  | Oct 7 |  |
-| **Camlin** | [Junior Firmware Engineer (Lisburn)](https://trylitos.com/job/e72de994-88ac-4f74-a8ef-34c2d86e74b2?utm_source=github&utm_campaign=uk-early-engineering) | Lisburn, United Kingdom |  | Oct 1 |  |
 | **Nu Quantum Ltd** | [FPGA Engineer - Quantum Networking (Early Career)](https://trylitos.com/job/b0941b01-806e-4e64-9a10-9a796a9131c0?utm_source=github&utm_campaign=uk-early-engineering) | Cambridge, England, United Kingdom |  | Sep 30 | Posting says it sponsors |
-| **SalesCaptain** | [Junior GTM Engineer](https://trylitos.com/job/742c8549-1729-4d0b-ac4c-14b29ecc429b?utm_source=github&utm_campaign=uk-early-engineering) | United Kingdom |  | Aug 24 |  |
 | **Bridges Electrical Engineers** | [Junior System Integration Engineer](https://trylitos.com/job/fce468b4-a226-4195-834f-95359e786567?utm_source=github&utm_campaign=uk-early-engineering) | Poole, England, United Kingdom |  | Aug 21 |  |
 | **Gunnebo Entrance Control** | [Service Engineer -Industrial Doors - South East Based](https://trylitos.com/job/17034d77-209e-44cf-9656-dfbec3d7ea67?utm_source=github&utm_campaign=uk-early-engineering) | Bracknell, England, United Kingdom |  | Jul 30 |  |
 | **Safran Engineering Services UK Limited** | [Industrial / Manufacturing Engineer (18m Fixed Term contract)](https://trylitos.com/job/458d5d72-f8ec-4daa-b5d1-22cf5496669d?utm_source=github&utm_campaign=uk-early-engineering) | Pitstone, England, United Kingdom |  | Jun 23 |  |
@@ -616,13 +613,10 @@ Click a role to open it, with the employer's own application link. Spreadsheet v
 | **Monex** | [Junior Finance Analyst](https://trylitos.com/job/57ab41e8-a78a-435e-b1c1-da7b031b7d80?utm_source=github&utm_campaign=uk-early-finance-accounting) | London |  | Sep 11 |  |
 | **Knight Frank** | [Associate / European Industrial & Logistics - Capital Markets](https://trylitos.com/job/122385df-13f7-42ab-8490-a837e95f892e?utm_source=github&utm_campaign=uk-early-finance-accounting) | UK Head Office (Baker Street, London) |  | Sep 2 |  |
 | **Neuberger Berman** | [Junior Quantitative Researcher, Commodities and Cross Asset](https://trylitos.com/job/32726ef5-7e05-4439-8ba8-40c040b98780?utm_source=github&utm_campaign=uk-early-finance-accounting) | London |  | Sep 1 |  |
-| **Clyde & Co** | [Junior Associate - Marine, Trading & Commodities](https://trylitos.com/job/5d4075c5-a8bc-4942-8c6f-610884d804b7?utm_source=github&utm_campaign=uk-early-finance-accounting) | Bristol |  | Jul 23 |  |
-| **Delta Capita** | [Junior Sales Executive (Financial Services)](https://trylitos.com/job/53f724c6-4347-454e-85af-50d58b68565a?utm_source=github&utm_campaign=uk-early-finance-accounting) | London, United Kingdom |  | Oct 14 |  |
 | **Selini Capital** | [Junior Quantitative Researcher](https://trylitos.com/job/ac1f6007-d64a-484a-8158-b7480332c4c2?utm_source=github&utm_campaign=uk-early-finance-accounting) | London, Singapore |  | Oct 5 |  |
 | **Bridewell** | [Junior Accountant](https://trylitos.com/job/7165e940-7d8a-4c3e-b44b-7aff2a9887e6?utm_source=github&utm_campaign=uk-early-finance-accounting) | Reading, England, United Kingdom |  | Sep 30 |  |
 | **Fasanara** | [Junior Risk Analytics Analyst](https://trylitos.com/job/29002b9e-6aba-45ac-95cc-03d27db1d90e?utm_source=github&utm_campaign=uk-early-finance-accounting) | London, England, United Kingdom |  | Sep 10 |  |
 | **Labcorp** | [Trainee Scientist - Genetic Toxicology](https://trylitos.com/job/12e80b72-a0da-4a78-9b91-8f75fd420a65?utm_source=github&utm_campaign=uk-early-science-healthcare) | Harrogate United Kingdom |  | Oct 8 |  |
-| **Clyde & Co** | [Junior Associate - Healthcare](https://trylitos.com/job/59017761-40c4-4421-9814-88708df021a3?utm_source=github&utm_campaign=uk-early-science-healthcare) | Edinburgh; Southampton |  | Oct 7 |  |
 | **AtkinsRéalis** | [Junior Freshwater Ecologist (Water Management Consultancy)](https://trylitos.com/job/8b600a58-4be5-4ed8-b0e3-4bf75c1ec437?utm_source=github&utm_campaign=uk-early-business-consulting-law) | GB.Cardiff.2 Capital Quarter Tyndall street; |  | Oct 8 |  |
 | **Clyde & Co** | [Junior Client Operations Executive](https://trylitos.com/job/91d464a3-5832-4daf-b480-1789d72d51d2?utm_source=github&utm_campaign=uk-early-business-consulting-law) | Manchester |  | Sep 30 |  |
 | **White Cap** | [Career Development Program - Operations Leader Trainee](https://trylitos.com/job/7b107623-5e27-4a2b-81b8-f1f21e51babd?utm_source=github&utm_campaign=uk-early-business-consulting-law) | Birmingham_35222 |  | Sep 18 |  |
@@ -644,6 +638,7 @@ Click a role to open it, with the employer's own application link. Spreadsheet v
 | **PJT Partners** | [Associate - Strategic Advisory (Industrials)](https://trylitos.com/job/257af00c-0690-44ba-9620-1c867f123809?utm_source=github&utm_campaign=uk-early-london) | London |  | Aug 20 |  |
 | **TransPerfect** | [Technical/Junior Litigation Support Analyst](https://trylitos.com/job/c44bf216-51eb-49e0-82e9-6030fe1e5162?utm_source=github&utm_campaign=uk-early-london) | UK-London |  | Mar 5 |  |
 | **proSapient** | [Client Services Associate (Entry Level - January 2027)](https://trylitos.com/job/773cf868-68e9-49f4-baf6-b79b443a8d78?utm_source=github&utm_campaign=uk-early-london) | London, England, United Kingdom |  | Oct 14 |  |
+| **Delta Capita** | [Junior Sales Executive (Financial Services)](https://trylitos.com/job/53f724c6-4347-454e-85af-50d58b68565a?utm_source=github&utm_campaign=uk-early-london) | London, United Kingdom |  | Oct 14 |  |
 | **proSapient** | [Client Services Associate - French Speaking - (Entry Level - January 2027)](https://trylitos.com/job/91fc0603-b8ae-47f8-bb0c-54117aaa0387?utm_source=github&utm_campaign=uk-early-london) | London, England, United Kingdom |  | Oct 9 |  |
 | **proSapient** | [Client Services Associate - German Speaking - (Entry Level - January 2027)](https://trylitos.com/job/46c3f927-8cfe-49cd-8624-ef865727e511?utm_source=github&utm_campaign=uk-early-london) | London, England, United Kingdom |  | Oct 9 |  |
 | **Moneyfarm** | [Junior Middle Office Analyst](https://trylitos.com/job/4404ea14-b1ed-4380-9e68-cbb42f983a10?utm_source=github&utm_campaign=uk-early-london) | London, England, United Kingdom |  | Oct 8 |  |
@@ -657,6 +652,7 @@ Click a role to open it, with the employer's own application link. Spreadsheet v
 | **PetLabCo.** | [Junior Video Producer - Paid Media (Spanish Speaking)- Remote in UK or Hybrid](https://trylitos.com/job/af6cbfa1-1e39-4c08-a33a-526960a49aee?utm_source=github&utm_campaign=uk-early-london) | London, England, United Kingdom |  | Aug 28 |  |
 | **PetLabCo.** | [Junior Video Producer - Paid Media (Spanish Speaking)- Remote in USA](https://trylitos.com/job/192419d0-1243-4018-b1a7-6f9a90bfcc5d?utm_source=github&utm_campaign=uk-early-london) | London, England, United Kingdom |  | Aug 28 |  |
 | **Vovi** | [Designer - Entry Level (London)](https://trylitos.com/job/f3f65139-8cd6-4e46-934c-031d215b6341?utm_source=github&utm_campaign=uk-early-london) | London, England, United Kingdom |  | Jun 3 |  |
+| **Clyde & Co** | [Junior Associate - Healthcare](https://trylitos.com/job/59017761-40c4-4421-9814-88708df021a3?utm_source=github&utm_campaign=uk-early-scotland) | Edinburgh; Southampton |  | Oct 7 |  |
 | **Iberdrola** | [Trainee Field Technician](https://trylitos.com/job/6406df2f-6193-4af0-a47e-4589fd9383fd?utm_source=github&utm_campaign=uk-early-scotland) | United Kingdom, Cambuslang; United Kingdom, C |  | Oct 5 |  |
 | **Clyde & Co** | [Junior Associate - CILL Scotland](https://trylitos.com/job/b191bcbb-b5c3-4176-b406-cb44e6fe5e03?utm_source=github&utm_campaign=uk-early-scotland) | Edinburgh |  | Sep 21 |  |
 | **Kepak Group** | [Cleaning Operative (Industrial cleaning)](https://trylitos.com/job/58e9fe1b-3e91-4004-80b1-3e0a7e19af1f?utm_source=github&utm_campaign=uk-early-scotland) | Aberdeen, Scotland, United Kingdom |  | Oct 14 |  |
