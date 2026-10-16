@@ -19,6 +19,8 @@ Every role comes straight from the employer's own job board, picked up by [Litos
 | [Business, consulting and law](lists/business-consulting-law.md) | 136 | 71 |
 | [London](lists/london.md) | 320 | 117 |
 | [Scotland](lists/scotland.md) | 54 | 25 |
+| [Pharma medical affairs and commercial](lists/pharma-medical-affairs-commercial.md) | 6 | 5 |
+| [Markets and investment banking](lists/markets-investment-banking.md) | 11 | 6 |
 
 Click a role to open it, with the employer's own application link. Spreadsheet versions: [csv/](csv/).
 
